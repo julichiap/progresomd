@@ -67,6 +67,32 @@ Este archivo se actualiza de forma incremental por una rutina automática de res
 - CABA: el trámite de "permiso de obra" (vs. simple aviso de obra) se activa para obra nueva, demolición total, ampliaciones importantes o cambio de uso de suelo, y requiere carpeta técnica completa aprobada por el organismo de control — esto aplica igual sea steel frame, wood frame o tradicional; no hay un circuito diferenciado por sistema constructivo en CABA según lo relevado. — [Estudio Lat, permisos CABA 2026](https://www.estudiolatarq.com/blog/permisos-tramites-construir-caba-guia-completa-2026/)
 - **Dato no encontrado (persiste):** el relevamiento puntual de 3-5 municipios del AMBA (más allá de CABA y el caso ya documentado de Lobos) con sus requisitos concretos sigue sin hacerse — requeriría ir municipio por municipio, lo cual no es viable en una sola corrida de research general. Recomendación: si este ángulo es prioritario, dedicar una corrida entera a esto.
 
+### Iteración 2026-09-06
+
+**Normativa — Uruguay: novedad importante, cierra un hueco marcado en las 2 corridas anteriores**
+
+- Uruguay lanzó la serie de normas **UNIT 1360** para steel framing el **27 de agosto de 2024** (fecha del lanzamiento, no de esta búsqueda — consultado el 2026-09-06), a través del Instituto Uruguayo de Normas Técnicas (UNIT) y su Comité Steel Framing. La serie tiene 4 normas publicadas — **UNIT 1360-1 (Productos), 1360-2 (Terminología), 1360-3 (Proyecto), 1360-4 (Control de obra)** — y una quinta (Evaluación de Desempeño) todavía pendiente de publicar. Acceso gratuito vía visor en el sitio de UNIT, financiado por aportes de empresas del sector. — [UNIT, lanzamiento normas UNIT 1360](https://www.unit.org.uy/novedades/ver/lanzamiento_de_normas_unit_steel_framing/), [Agencia Nacional de Vivienda, Uruguay](https://www.anv.gub.uy/normalizando-criterios-de-construccion-steel-framing), [La Columna, entrevista Arq. Gabriel Boccarato](https://www.lacolumna.uy/columnas/normas-unit-serie-1360-de-steel-framing-con-el-arq-gabriel-boccarato-iucose-sau.php?cid=20240912), [UNIT, norma 1360-2:2024](https://www.unit.org.uy/normalizacion/norma/100001679), [UNIT, norma 1360-5:2024](https://www.unit.org.uy/normalizacion/norma/100001752)
+- **Contraste relevante con Argentina:** Uruguay tiene ahora una norma técnica *específica* de steel framing a nivel nacional (UNIT 1360), mientras que Argentina se apoya en el **CIRSOC 303**, que es una norma de diseño estructural en acero conformado en frío más general, no exclusiva de steel framing residencial, y sigue sin existir un código nacional único ni una entidad que regule específicamente el sistema (dato ya documentado en la Iteración 1). Uruguay parece ir un paso adelante en estandarización nacional del sistema.
+- **Dato no encontrado / incierto:** no se pudo confirmar si el cumplimiento de UNIT 1360 es **obligatorio** para obtener un permiso de obra municipal en Uruguay, o si es una norma de referencia técnica voluntaria (como suele pasar con normas UNIT en general). El acceso directo a unit.org.uy y anv.gub.uy estuvo bloqueado por el proxy de red del entorno (`EGRESS_BLOCKED`); toda la información viene de resúmenes de búsqueda, no de lectura directa de la norma. Queda pendiente de verificación manual.
+
+**Financiamiento — Banco Ciudad (Argentina), dato completado (había quedado incompleto en la Iteración 2026-09-04)**
+
+- Línea de crédito personal en UVA para compra de terreno + construcción: monto máximo **$100 millones ARS**, tasa **9,5% fija + UVA** (baja a **8,5%** si la obra certifica mejoras de eficiencia energética — ventanas doble/triple vidrio, climatización de alta eficiencia, aislación de envolvente térmica, control solar), plazo hasta **120 meses (10 años)**, sistema de amortización alemán (cuota decreciente). Financia hasta el 100% del presupuesto de obra, pero sin superar el 50% del valor de la propiedad. Requiere presupuesto de obra firmado por profesional matriculado y escritura o boleto de compra del terreno. **No se encontró mención explícita a steel frame ni sistemas industrializados** en las condiciones — mismo patrón "agnóstico al sistema constructivo" que Banco Nación e ICBC (documentado en la Iteración 2). — [Ámbito, Banco Ciudad créditos para lotes y construcción](https://www.ambito.com/real-estate/un-banco-lanzo-creditos-personales-100-millones-comprar-lotes-y-construir-viviendas-n6139848), [Banco Ciudad, micrositio Ciudad Primera Vivienda](https://bancociudad.com.ar/institucional/micrositio/Ciudad_Primera_Vivienda) (acceso directo bloqueado, `EGRESS_BLOCKED`, dato vía snippet), [La Nación, paso a paso Banco Ciudad](https://www.lanacion.com.ar/sociedad/casa-propia-paso-a-paso-como-sacar-un-credito-hipotecario-del-banco-ciudad-nid18032026/)
+- **Lectura propia, no confirmada por el banco:** la tasa preferencial por eficiencia energética podría beneficiar indirectamente a steel/wood frame bien aislado (suele venderse con mejor performance térmica que la mampostería sin aislación extra, dato ya citado en la Iteración 1), pero ningún material de Banco Ciudad relevado en esta corrida menciona el sistema constructivo como criterio — es una hipótesis a marcar como tal, no un hecho.
+
+**Financiamiento — México: Infonavit Crediterreno Para Mi Hogar (primer dato de crédito mexicano relevado, cierra hueco marcado en la Iteración 2)**
+
+- Programa que permite comprar terreno **y** construir con un solo crédito, sin pedir un segundo crédito después. Monto hasta **$2.9 millones MXN**; hasta 35% del monto puede ir al terreno (si se usa menos, la diferencia va a construcción); plazo de **1 a 15 años** (la edad del titular más el plazo no puede superar 70 años en hombres / 75 en mujeres); tasa definida caso por caso según perfil (salario, edad, historial). El dinero de construcción se desembolsa en **ministraciones** conforme avanza y se verifica la obra — mismo mecanismo de tramos por avance que los bancos argentinos relevados en la Iteración 2. Requisitos: ser derechohabiente activo de Infonavit, no tener otro crédito Infonavit vigente, terreno con escritura individual libre de gravamen y uso residencial o mixto; para 2026 se suma el requisito de CURP Biométrica y un curso digital obligatorio ("Saber más para decidir mejor"). **No se encontró mención a steel frame ni wood frame** en las fuentes relevadas — otra vez, crédito agnóstico al sistema constructivo. — [Infobae, Crediterreno 2026](https://www.infobae.com/mexico/2026/07/23/el-credito-oficial-de-infonavit-2026-que-te-permite-comprar-un-terreno-propio-con-mensualidades-a-tu-medida/), [El Imparcial, 02/05/2026](https://www.elimparcial.com/dinero/2026/05/02/infonavit-ya-permite-comprar-terreno-y-construir-casa-con-un-solo-credito-de-hasta-29-millones-de-pesos-estos-son-los-requisitos-y-como-funciona/), [UnoTV, Crediterreno](https://www.unotv.com/nacional/crediterreno-infonavit-como-comprar-terreno-y-construir-vivienda-en-2026/), [Pluxee, cambios Ley Infonavit 2026](https://www.pluxee.mx/blog/cambios-en-la-ley-de-infonavit-que-tienes-que-conocer/)
+
+**Normativa municipal AMBA — primer relevamiento puntual de 4 municipios (pendiente marcado en la Iteración 2026-09-04)**
+
+- **San Isidro:** el "Permiso de Construcción" cubre obra nueva, ampliaciones, demoliciones parciales y regularizaciones sin límite de superficie; debe ajustarse al Código de Edificación y al Código de Ordenamiento Urbano local; los planos se presentan antes de iniciar la obra. — [Municipalidad de San Isidro, Permiso de Construcción](https://www.sanisidro.gob.ar/tramites-y-servicios/permiso-de-construcci%C3%B3n)
+- **Tigre:** tiene un circuito de "Permiso Automático de Obra" digitalizado (sistema SiDOP), que requiere formulario de responsabilidad firmado por un profesional registrado en el sistema, DNI del propietario y comprobante de tasa municipal. — [Tigre Municipio, presentación carpeta de obra](https://www.tigre.gob.ar/tramites/presentacion_carpeta_obra)
+- **Pilar:** exige comprar una "Carpeta de Obra", presentar título de propiedad, DNI y CUIT/CUIL del titular, y los formularios de "Solicitud de Aprobación de Planos" y "Estadística de Edificación", firmados por propietario y profesional actuante. — [Municipio de Pilar, Obras Particulares](https://pilar.gov.ar/tramites/obras-particulares/)
+- **La Matanza:** requiere carpeta con título de propiedad, planos de arquitectura y estructura visados por Obras Públicas, certificado de libre deuda municipal y comprobante de pago de derechos de construcción. — [Municipio de La Matanza, Mesa de Entradas](https://www.lamatanza.gov.ar/tramites/10/details)
+- **Hallazgo consistente con CABA (Iteración 2):** en ninguno de estos 4 municipios se encontró un circuito, formulario o requisito diferenciado específicamente para steel frame o wood frame frente a la construcción tradicional — el trámite parece ser el mismo para cualquier sistema, y lo que cambia es la documentación técnica que presenta el profesional matriculado (probablemente incluyendo memoria de cálculo CIRSOC 303 cuando aplica, aunque esto no se confirmó puntualmente municipio por municipio). **Implicancia para contenido:** no hay un "trámite especial que temer" — es el mismo circuito de siempre, con papeles técnicos distintos. Esto contradice una percepción común entre autoconstructores primerizos (mencionada de forma anecdótica en foros, no verificada con una fuente citable) de que el steel frame "no se puede aprobar" en ciertos municipios.
+- **Dato no encontrado (persiste):** no se confirmó puntualmente si San Isidro, Tigre, Pilar o La Matanza exigen el Certificado de Aptitud Técnica (CAT) mencionado en la Iteración 2, ni tiempos reales de aprobación. Quedan sin relevar Vicente López, Morón, Quilmes y otros municipios de alto volumen de autoconstrucción — recomendación repetida: dedicar una corrida entera a esto si es un ángulo prioritario.
+
 ---
 
 ## Competencia
@@ -114,6 +140,28 @@ Este archivo se actualiza de forma incremental por una rutina automática de res
 - Hueco que deja: como los otros actores de "constructora llave en mano", no cubre financiamiento ni trámite municipal como parte de su propuesta pública — mismo hueco que Perfiles JMA y Escuela de Steel Framing, pero desde el lado de la obra (no de la capacitación).
 
 **Patrón que se repite en esta corrida:** de los 3 actores nuevos, en **ningún caso se pudo confirmar una cifra de precio propia y verificada directamente en el sitio** — todos los intentos de lectura directa fueron bloqueados por el proxy de red del entorno (`EGRESS_BLOCKED`) o fallaron por DNS. Esto es una limitación real de esta rutina automatizada (no del research en sí) que conviene tener presente: los precios de competidores concretos requieren verificación manual humana, la búsqueda web sola no alcanza cuando el sitio bloquea o no expone precios en snippets indexados.
+
+### Iteración 2026-09-06 — 3 actores nuevos analizados
+
+**7. Uruframe** (uruframe.com.uy) — fabricante/proveedor uruguayo de perfilería steel frame
+- Qué es: empresa con sede en Montevideo (Cuareim 1984), dedicada a fabricación de perfiles galvanizados y paneles SIP, con servicios de ingeniería y fabricación a medida.
+- Propuesta de valor: foco en insumo y fabricación (no en obra llave en mano) — vende perfiles PGC y PGU bajo norma IRAM-IAS U500-205 (0,95mm de espesor, largos de 6 metros), con corte a medida sin cargo adicional, y tiene una sección "Técnico" con soporte de diseño y una oferta de "Free Kits" (contenido cuyo alcance exacto no se pudo confirmar en esta corrida).
+- Precios públicos: sí, a nivel de insumo — perfil PGC 100 a **USD 19,62 + IVA** y PGU 100 a **USD 16,90 + IVA** (consultado el 2026-09-06 vía resumen de búsqueda). No hay precio por m² de vivienda terminada expuesto.
+- Hueco que deja: al vender insumo/fabricación y no vivienda terminada, no resuelve para un autoconstructor uruguayo la pregunta de "cuánto sale mi casa completa" — deja ese cálculo en manos del comprador o de un tercero (proyectista/constructor) que arme el proyecto integral. — [Uruframe, home](https://www.uruframe.com.uy/), [Uruframe, productos/servicios](https://www.uruframe.com.uy/servicios), [Uruframe, técnico](https://www.uruframe.com.uy/tecnico)
+
+**8. Cámara Argentina del Steel Frame (CASF)** (camarasteelframe.org.ar) — entidad sectorial, no un competidor comercial directo
+- Qué es: cámara del sector en Argentina, con canal de YouTube activo y un ciclo de charlas online abiertas y gratuitas a cargo de su Departamento de Capacitación (ej. "Charla Abierta de Predimensionado").
+- Propuesta de valor: contenido técnico gratuito orientado a profesionalizar y dar visibilidad al sistema constructivo — dirigido a arquitectos, constructores y estudiantes, no a una persona sin conocimiento previo que evalúa autoconstruir.
+- Precios: no aplica — es una entidad de representación sectorial, no vende producto ni curso pago identificado en esta corrida.
+- Hueco que deja: igual que INCOSE (ver abajo) — contenido técnico-profesional, no un recurso pensado para que alguien sin experiencia entienda de punta a punta si autoconstruir le conviene y cómo arrancar. — [Cámara Argentina del Steel Frame, YouTube](https://www.youtube.com/channel/UCEnqLwHKwec7UxYE4YeuwJA/videos), [Cámara Argentina del Steel Frame, sitio](https://camarasteelframe.org.ar/)
+
+**9. INCOSE — Instituto de la Construcción en Seco** (incose.org.ar) — instituto sectorial, identificado desde la Iteración 1 pero recién analizado ahora
+- Qué es: instituto que ofrece cursos de introducción al steel framing desde al menos 2010 (históricamente en articulación con universidades como la FADU, y entidades como el Instituto Argentino de Siderurgia, ALACERO y la SCA).
+- Propuesta de valor: formación de base gratuita ("Introducción al Steel Framing") con trayectoria larga y alianzas institucionales, lo que le da credibilidad técnica frente al sector profesional — no orientado a captar autoconstructores particulares como cliente.
+- Precios: cursos introductorios gratuitos identificados; no se hallaron precios de formación avanzada en esta corrida.
+- Hueco que deja: junto con Perfiles JMA, Escuela de Steel Framing y CASF, confirma un **patrón consistente a lo largo de 3 corridas**: el ecosistema de capacitación en steel frame en Argentina está fuertemente orientado a profesionales y estudiantes de arquitectura/ingeniería, no a la persona particular que quiere autoconstruir su propia vivienda. Ninguno de los 4 actores de capacitación relevados hasta ahora ofrece un recorrido pensado para ese público específico (evaluación económica, financiamiento, trámite municipal, decisión de sistema constructivo). — [INCOSE, capacitación](https://www.incose.org.ar/capacitacion/sistema-steel-framing-y-sus-beneficios/), [ARQA, capacitación INCOSE](https://arqa.com/academico/cursos-seminarios/capacitacion-steel-framing-por-el-incose.html)
+
+**Nota de calidad de dato:** en los 3 casos de esta corrida, la información viene de resúmenes de búsqueda (WebSearch); el acceso directo a los sitios no se intentó de forma sistemática porque los patrones de bloqueo de corridas anteriores (EGRESS_BLOCKED) hacen poco eficiente reintentar sin evidencia de que haya cambiado.
 
 ---
 
@@ -163,6 +211,28 @@ Este archivo se actualiza de forma incremental por una rutina automática de res
 
 ---
 
+### BORRADOR - REVISIÓN HUMANA PENDIENTE (2026-09-06)
+
+**Tipo:** pieza de contenido (artículo comparativo/regulatorio) — ángulo nuevo, distinto de los 2 borradores anteriores (costo comparado y financiamiento bancario). Este explota el hallazgo nuevo de esta corrida: la brecha regulatoria entre Uruguay y Argentina.
+
+---
+
+**Título tentativo:** "Uruguay ya tiene una norma nacional de steel framing. Argentina, no. Qué significa esto si estás pensando en autoconstruir."
+
+**Ángulo:** contraste directo y verificable entre dos países vecinos con el mismo sistema constructivo: Uruguay acaba de estandarizar el steel framing a nivel nacional (norma UNIT 1360, lanzada en agosto 2024, con 4 de 5 normas ya publicadas), mientras que en Argentina cada municipio sigue decidiendo por su cuenta qué exige, sin una norma nacional específica del sistema (solo el CIRSOC 303, que es más general). El artículo no toma partido sobre cuál país "lo hace mejor" sino que usa el contraste para explicarle al autoconstructor argentino por qué el trámite le puede parecer errático según dónde viva, y qué puede exigir igual (memoria de cálculo, detalle de muros) aunque no haya norma nacional.
+
+**Estructura sugerida:**
+1. Gancho: "Si construís en steel frame en Uruguay, hay una norma nacional que lo regula. Si lo hacés en Argentina, depende de en qué municipio vivas."
+2. Qué es la norma UNIT 1360 (Uruguay): 4 normas publicadas (Productos, Terminología, Proyecto, Control de obra), acceso gratuito, lanzada en agosto 2024 — explicar en criollo qué cubre cada una, con la salvedad honesta de que no se confirmó si es de cumplimiento obligatorio para el permiso de obra o solo de referencia técnica.
+3. Qué hay en Argentina: CIRSOC 303 como norma de diseño estructural (no específica de steel framing residencial) + fragmentación municipal (recordar el caso de Lobos, Resolución 5-E/2018, que sí reconoce el sistema explícitamente — dato de la Iteración 1).
+4. Lo nuevo de esta corrida: relevamiento de San Isidro, Tigre, Pilar y La Matanza — ninguno tiene un circuito diferenciado para steel/wood frame; es el mismo trámite de siempre, con papeles técnicos distintos. Mensaje tranquilizador basado en evidencia: "no existe un municipio del AMBA relevado que rechace el sistema por sistema", aunque conviene consultar siempre antes de comprometer presupuesto.
+5. Por qué le importa esto a un autoconstructor: previsibilidad. Un país con norma nacional (Uruguay) reduce la incertidumbre de "¿esto me lo van a aprobar?"; en Argentina, esa incertidumbre persiste municipio por municipio, lo que refuerza el valor de consultar antes y de exigirle al profesional actuante que documente todo según CIRSOC 303 aunque no sea obligatorio en todos lados.
+6. CTA suave: invitar a dejar el municipio propio para recibir una guía de qué pedir puntualmente ahí (placeholder — depende de si existe ese producto).
+
+**Nota para la persona que revise:** el punto más delicado es la afirmación sobre si UNIT 1360 es obligatoria u opcional en Uruguay — **no se pudo confirmar en esta corrida** (sitios de UNIT y ANV bloqueados por el proxy del entorno). Antes de publicar, hay que verificar esto manualmente o dejarlo explícitamente como "norma de referencia técnica, alcance de exigibilidad no confirmado" para no afirmar algo que no está probado.
+
+---
+
 ## Ideas de contenido
 
 - (2026-09-03) Comparativa de costo real por m² con fuentes cruzadas y fecha (ver borrador arriba).
@@ -174,6 +244,10 @@ Este archivo se actualiza de forma incremental por una rutina automática de res
 - (2026-09-04) Checklist descargable "Qué pedirle a tu municipio antes de construir en steel/wood frame" (CIRSOC 303, Certificado de Aptitud Técnica si aplica, diferencia entre aviso de obra y permiso de obra) — buen lead magnet a cambio de email/WhatsApp, aunque falta el relevamiento municipio-por-municipio para que sea realmente accionable.
 - (2026-09-04) Comparativa Argentina vs. México: por qué construir liviano en México (steel/wood frame) crece ~35% anual según fuentes sectoriales — posible ángulo "tendencia regional" para contenido, con la salvedad de que esa cifra de crecimiento no está verificada de forma independiente.
 - (2026-09-04) Nota tipo "así funciona el desembolso de un crédito de construcción" explicando en criollo el mecanismo de 3 tramos atados a % de avance de obra (Banco Nación) — contenido educativo genérico pero con demanda real, no requiere mencionar steel frame para ser útil al público objetivo.
+- (2026-09-06) Comparativa regulatoria Uruguay vs. Argentina sobre normativa de steel framing (ver borrador arriba) — ángulo de autoridad/diferenciación, ningún competidor relevado hasta ahora está cubriendo este contraste específico.
+- (2026-09-06) Guía corta "El mismo trámite, papeles distintos": qué pedirle a tu municipio del AMBA (San Isidro, Tigre, Pilar, La Matanza, CABA) para aprobar steel/wood frame, basada en el relevamiento de esta corrida — con la aclaración de que falta confirmar el Certificado de Aptitud Técnica (CAT) en cada uno.
+- (2026-09-06) Pieza "por qué nadie te ofrece esto todavía": el hueco confirmado con 3 corridas de research de que la capacitación en steel frame en Argentina (Perfiles JMA, Escuela de Steel Framing, CASF, INCOSE) es para profesionales, no para autoconstructores — podría ser la base de una propuesta de producto/posicionamiento, no solo de contenido.
+- (2026-09-06) Comparativa de financiamiento ampliada a México (Infonavit Crediterreno) — mismo hallazgo que en Argentina: los créditos son agnósticos al sistema constructivo, se rigen por avance de obra verificado. Podría combinarse con el hilo de bancos argentinos (Iteración 2026-09-04) en una pieza regional más amplia.
 
 ---
 
@@ -230,6 +304,36 @@ El acceso directo a viviendasargentinas.com, prefablot.com y constructorasantais
 - https://viviendasargentinas.com/precios/ (bloqueado — dato vía snippet)
 - https://steelframeconstructora.com.ar/ (mención adicional, no analizado en profundidad)
 
+### Consultadas el 2026-09-06
+
+El acceso directo (WebFetch) a unit.org.uy, anv.gub.uy, bancociudad.com.ar, adestajo.com.mx y viviendasargentinas.com estuvo bloqueado por el proxy de red del entorno (`EGRESS_BLOCKED`); la información de esos dominios proviene de resúmenes de búsqueda (WebSearch), no de lectura directa de la página.
+
+- https://www.unit.org.uy/novedades/ver/lanzamiento_de_normas_unit_steel_framing/ (bloqueado — dato vía snippet)
+- https://www.anv.gub.uy/normalizando-criterios-de-construccion-steel-framing (bloqueado — dato vía snippet)
+- https://www.lacolumna.uy/columnas/normas-unit-serie-1360-de-steel-framing-con-el-arq-gabriel-boccarato-iucose-sau.php?cid=20240912
+- https://www.unit.org.uy/normalizacion/norma/100001679
+- https://www.unit.org.uy/normalizacion/norma/100001752
+- https://www.ambito.com/real-estate/un-banco-lanzo-creditos-personales-100-millones-comprar-lotes-y-construir-viviendas-n6139848
+- https://bancociudad.com.ar/institucional/micrositio/Ciudad_Primera_Vivienda (bloqueado — dato vía snippet)
+- https://www.lanacion.com.ar/sociedad/casa-propia-paso-a-paso-como-sacar-un-credito-hipotecario-del-banco-ciudad-nid18032026/
+- https://www.infobae.com/mexico/2026/07/23/el-credito-oficial-de-infonavit-2026-que-te-permite-comprar-un-terreno-propio-con-mensualidades-a-tu-medida/
+- https://www.elimparcial.com/dinero/2026/05/02/infonavit-ya-permite-comprar-terreno-y-construir-casa-con-un-solo-credito-de-hasta-29-millones-de-pesos-estos-son-los-requisitos-y-como-funciona/
+- https://www.unotv.com/nacional/crediterreno-infonavit-como-comprar-terreno-y-construir-vivienda-en-2026/
+- https://www.pluxee.mx/blog/cambios-en-la-ley-de-infonavit-que-tienes-que-conocer/
+- https://adestajo.com.mx/blog/infonavit-2026-guia-credito-construccion-mexico (bloqueado — dato vía snippet)
+- https://www.sanisidro.gob.ar/tramites-y-servicios/permiso-de-construcci%C3%B3n
+- https://www.tigre.gob.ar/tramites/presentacion_carpeta_obra
+- https://pilar.gov.ar/tramites/obras-particulares/
+- https://www.lamatanza.gov.ar/tramites/10/details
+- https://www.uruframe.com.uy/
+- https://www.uruframe.com.uy/servicios
+- https://www.uruframe.com.uy/tecnico
+- https://www.youtube.com/channel/UCEnqLwHKwec7UxYE4YeuwJA/videos
+- https://camarasteelframe.org.ar/
+- https://www.incose.org.ar/capacitacion/sistema-steel-framing-y-sus-beneficios/
+- https://arqa.com/academico/cursos-seminarios/capacitacion-steel-framing-por-el-incose.html
+- https://viviendasargentinas.com/precios/ (bloqueado — reintentado, sigue sin acceso directo, dato no confirmado)
+
 ---
 
 ## Log de iteraciones
@@ -249,3 +353,12 @@ El acceso directo a viviendasargentinas.com, prefablot.com y constructorasantais
 - Borrador generado: guión de hilo/carrusel corto sobre financiamiento bancario comparado (distinto en formato y ángulo al artículo largo de costos de la corrida anterior).
 - **Pendiente para próximas corridas:** verificar manualmente los sitios bloqueados de esta corrida (viviendasargentinas.com, prefablot.com, constructorasantaisabel.com.uy, fabricasa.com.ar) para obtener precios propios reales; Banco Ciudad quedó con datos incompletos (tasa y monto no encontrados) — completar; relevamiento municipio-por-municipio del AMBA (CABA, La Matanza, Tigre, Pilar, San Isidro u otros de alto volumen de autoconstrucción) sigue pendiente y requeriría una corrida dedicada; financiamiento hipotecario y normativa específica de Uruguay y México (solo se relevaron costos, no crédito ni regulación); validar o descartar la hipótesis propia de que sistemas industrializados facilitan cumplir hitos de desembolso bancario (no confirmada por ninguna fuente, marcada como tal en el borrador).
 - **Incidentes / contenido con instrucciones embebidas:** no se detectó, en los resúmenes de búsqueda ni en las páginas accesibles de esta corrida, texto dirigido a la IA pidiendo acciones. Los bloqueos de acceso (EGRESS_BLOCKED, DNS) fueron limitaciones técnicas del entorno, no contenido malicioso.
+
+### 2026-09-06 — Iteración 3
+
+- Cubierto (nuevo, no repetido de corridas anteriores): **normativa de Uruguay** (serie UNIT 1360, cierra un hueco marcado en la Iteración 1 y 2); **Banco Ciudad completado** (tasa, monto, plazo — dato que había quedado incompleto en la Iteración 2); **financiamiento en México** (Infonavit Crediterreno Para Mi Hogar, primer dato de crédito mexicano relevado); **relevamiento puntual de 4 municipios del AMBA** (San Isidro, Tigre, Pilar, La Matanza — pendiente marcado en la Iteración 2), con el hallazgo de que ninguno tiene circuito diferenciado para steel/wood frame (mismo patrón que CABA).
+- Competencia analizada: Uruframe (fabricante de perfilería uruguayo, con precios públicos por perfil), Cámara Argentina del Steel Frame (entidad sectorial, no comercial), INCOSE (instituto de capacitación, mencionado como pendiente desde la Iteración 1). **Patrón confirmado con 3 corridas:** el ecosistema de capacitación/contenido en steel frame en Argentina (Perfiles JMA, Escuela de Steel Framing, CASF, INCOSE) está orientado a profesionales, no a autoconstructores particulares — hueco de mercado consistente.
+- Borrador generado: artículo comparativo sobre la brecha regulatoria Argentina vs. Uruguay (norma nacional UNIT 1360 vs. fragmentación municipal argentina) — ángulo nuevo, no repetido de los 2 borradores anteriores (costo comparado, financiamiento bancario).
+- **Limitación técnica persistente:** igual que en la Iteración 2, el acceso directo (WebFetch) a varios sitios relevantes (unit.org.uy, anv.gub.uy, bancociudad.com.ar, adestajo.com.mx, viviendasargentinas.com) estuvo bloqueado por el proxy de red del entorno (`EGRESS_BLOCKED`) — toda la información de esos dominios viene de resúmenes de WebSearch, no de lectura directa. No se pudo verificar si la norma UNIT 1360 es de cumplimiento obligatorio u opcional para permisos de obra en Uruguay — queda pendiente.
+- **Pendiente para próximas corridas:** verificar manualmente si UNIT 1360 es exigible en trámites municipales uruguayos; completar el relevamiento AMBA con más municipios (Vicente López, Morón, Quilmes) y confirmar si alguno exige el Certificado de Aptitud Técnica (CAT) mencionado en la Iteración 2; verificar precio propio de Viviendas Argentinas, Prefablot, Fabricasa y Constructora Santa Isabel (siguen bloqueados desde la Iteración 2 — 2 corridas seguidas sin poder confirmar); profundizar Chile (solo cubierto una vez, Iteración 1) y explorar Colombia/Perú como mercados comparables aún no relevados; dado el patrón repetido de "capacitación para profesionales, no para autoconstructores", vale la pena una corrida dedicada a validar si ese hueco es real hablando de intención de búsqueda (qué busca la gente en Google/YouTube sobre esto) en vez de solo mirar oferta.
+- **Incidentes / contenido con instrucciones embebidas:** no se detectó texto dirigido a la IA pidiendo acciones en los resúmenes de búsqueda de esta corrida.
