@@ -1,4 +1,4 @@
-# PROGRESO — Research autoconstrucción steel frame / wood frame
+# progreso autoconstrucción — Research steel frame / wood frame
 
 Este archivo se actualiza de forma incremental por una rutina automática de research de mercado. Cada corrida AGREGA contenido nuevo; no se borra lo anterior. Todas las cifras están fechadas y citadas. Cuando un dato es incierto o la fuente es floja, se aclara explícitamente.
 
@@ -235,7 +235,7 @@ El acceso directo a viviendasargentinas.com, prefablot.com y constructorasantais
 ## Log de iteraciones
 
 ### 2026-09-03 — Iteración 1 (primera corrida)
-- PROGRESO.md no existía; se creó desde cero con esta estructura.
+- progreso autoconstrucción.md no existía; se creó desde cero con esta estructura.
 - Cubierto: costos por m² (steel/wood/tradicional) en Argentina con fuentes fechadas 2026; normativa municipal (panorama general + caso Lobos); financiamiento (línea Banco Provincia agosto 2026); panorama comparado en Chile y España.
 - Competencia analizada: Perfiles JMA, Escuela de Steel Framing, Roomix.ai (este último no es competencia directa de la industria sino un actor de contenido/proptech relevante para estrategia de contenido).
 - Borrador generado: artículo comparativo de costos + financiamiento + trámite municipal.
