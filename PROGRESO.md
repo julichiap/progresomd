@@ -38,7 +38,31 @@ Este archivo se actualiza de forma incremental por una rutina automática de res
 - **España:** la madera maciza industrializada (CLT y similares) es todavía chica (~1,5% del sector) pero **se espera que España duplique la edificación en madera maciza industrializada en 2026**, impulsada por disponibilidad de recurso forestal, nuevas plantas de producción y marco regulatorio favorable. A nivel Europa, la construcción en madera lidera >34% del mercado global con crecimiento anual cercano al 10%. — [Innovando en la Construcción](https://innovandoenlaconstruccion.com/espana-preve-duplicar-la-edificacion-en-madera-maciza-industrializada-en-2026/), [Maderea](https://www.maderea.es/madera-construccion-industrializada/)
 - **Uruguay y México:** no se relevaron en esta corrida (queda pendiente para próxima iteración — priorizar si se detecta interés de audiencia en esos mercados).
 
-### Iteración 2026-09-04
+### Iteración 2026-09-07
+
+**Actualización de precios — nuevo hallazgo importante: la serie mensual de LA NACIÓN muestra que la construcción en seco se volvió MÁS CARA que la tradicional (agosto 2026)**
+
+- LA NACIÓN publica una serie mensual ("¿Cuál es el precio por metro cuadrado de una construcción en seco en [mes] 2026?") con datos de un panel de expertos del sector. En **agosto 2026**, el m² de estructuras de acero galvanizado (steel frame) subió 4% respecto a julio y se ubicó cerca de **$2.700.000 ARS/m² (~USD 1.770 al tipo de cambio oficial)**. Esto lo posiciona **por encima** del m² de construcción tradicional, citado en ~USD 1.440 + IVA en la misma nota. La nota atribuye la suba a "factores estacionales y alta demanda en viviendas industrializadas". — [LA NACIÓN, agosto 2026](https://www.lanacion.com.ar/propiedades/construccion-y-diseno/cual-es-el-precio-por-metro-cuadrado-de-una-construccion-en-seco-en-agosto-2026-nid22082026/), consultado 2026-09-07 (vía snippet de búsqueda — el acceso directo a lanacion.com.ar estuvo bloqueado por el proxy del entorno, `EGRESS_BLOCKED`)
+- Nota de Construar.com.ar sobre el mismo dato (agosto 2026) agrega contexto de por qué crece la demanda pese a la suba de precio: permite construir 25–40% más rápido (no requiere secado de materiales húmedos); es más sustentable (materiales reciclables, comprados a medida, menos desperdicio); mejor aprovechamiento de espacio (paredes de 14–15 cm vs. 35–45 cm de la tradicional, sin perder prestaciones térmicas/acústicas/ignífugas); y la previsibilidad de costo por menor exposición a la inflación durante la obra (plazos más cortos). — [Construar.com.ar, agosto 2026](https://www.construar.com.ar/2026/08/construccion-en-seco-en-argentina-cuanto-cuesta-el-metro-cuadrado-en-agosto-2026-y-por-que-crece-la-demanda/), consultado 2026-09-07 (vía snippet)
+- **Esto matiza la "conclusión provisoria" de la iteración 2026-09-03**, que decía que steel/wood frame no eran claramente más baratos que la tradicional, pero tampoco necesariamente más caros — el hallazgo de agosto 2026 sugiere una tendencia de encarecimiento relativo del steel frame en los meses recientes (la nota menciona "los últimos meses" de subas fuertes, no solo agosto). **No se pudo verificar la serie completa mes a mes** (enero a agosto 2026) porque el acceso directo a lanacion.com.ar está bloqueado en este entorno — solo se obtuvieron los resúmenes de búsqueda de agosto y julio. Sería valioso que una persona arme la serie completa desde los links ya identificados (enero a agosto, todos en la lista de fuentes) para confirmar si la tendencia es sostenida o es un pico puntual de agosto.
+- **Dato no encontrado:** no se halló la nota de septiembre 2026 de esta serie (la más reciente indexada al momento de esta corrida es la de agosto, publicada 22/08/2026) — normal, puede no estar publicada aún a la fecha de esta corrida (07/09/2026).
+
+**Financiamiento — Banco Ciudad (dato pendiente desde la iteración 2026-09-04, ahora completado parcialmente)**
+
+- Banco Ciudad tiene una línea de préstamo hipotecario en UVA ("Línea General") con monto máximo hasta **$250.000.000 ARS**, tasa nominal **UVA + 11,50%** (hay una variante más baja, UVA + 7,5%, pero aparentemente ligada a programas específicos — **no se pudo confirmar el requisito exacto de esa tasa preferencial**), plazo máximo **20 años**, relación cuota/ingreso hasta 20% de los ingresos netos del solicitante y/o garante. — [iProfesional, Banco Ciudad créditos hipotecarios](https://www.iprofesional.com/economia/462839-creditos-hipotecarios-uva-banco-ciudad-hasta-200-millones-pesos-plazos-de-25-anos), [Mudafy, guía créditos UVA 2026](https://mudafy.com.ar/blog/post/nuevos-creditos-hipotecarios-uva), consultado 2026-09-07
+- Específicamente para **construcción/ampliación** (no solo compra de vivienda terminada): hasta **$125.000.000 ARS para terminación de obra** (tope 50% del presupuesto total de obra) o **ampliación de obra hasta el 100% del presupuesto**, sin superar el 35% del valor de la garantía. La línea está dirigida a comprar terreno, adquirir vivienda terminada o modular, o encarar obras de construcción/refacción/ampliación/finalización — **no se encontró mención explícita a steel frame, wood frame ni sistemas industrializados** en las condiciones (mismo patrón que Banco Nación e ICBC, cubiertos en la iteración 2026-09-04). — mismas fuentes, consultado 2026-09-07
+- **Nota de calidad del dato:** hay inconsistencia entre fuentes sobre la vigencia — una nota menciona la línea disponible "hasta el 31 de agosto de 2026", lo cual, si es correcto, significa que **podría ya no estar vigente a la fecha de esta corrida (07/09/2026)** — dato a confirmar directamente en bancociudad.com.ar, cuyo acceso directo está bloqueado en este entorno (`EGRESS_BLOCKED`). No se pudo verificar si fue renovada o discontinuada.
+- Con este dato, quedan relevados 4 de los 4 bancos identificados en la iteración 2026-09-04 (Provincia, Nación, Ciudad, ICBC): **solo Banco Provincia menciona explícitamente sistemas industrializados/steel frame** como elegibles; el resto son agnósticos al sistema constructivo y financian según % de avance de obra o presupuesto.
+
+**Normativa municipal — AMBA, 2 municipios relevados (La Matanza y Tigre; pendiente desde iteración 2026-09-04)**
+
+- **La Matanza:** toda obra requiere permiso de construcción o "aviso de obra" según complejidad. Los planos deben mostrar la intervención de Constructor y Director de Obra, con cartel de obra visible (número de expediente y datos del profesional actuante). Requieren ampliaciones, reformas, transformaciones de construcciones existentes, y cambios de estructura o material de techos. **No se encontró mención específica a steel frame ni a requisitos diferenciados por sistema constructivo** — el trámite parece agnóstico al sistema, como en CABA (dato ya documentado 2026-09-04). — [Municipio de La Matanza, planeamiento urbano](https://www.lamatanza.gov.ar/planeamientourbano/fiscalizacion), [Estudio Paredes, planos municipales La Matanza](https://www.paredestudio.com.ar/planos-municipales-partido-de-la-matanza/), consultado 2026-09-07
+- **Tigre:** sistema de "Permiso de Obra Automático" (precario y revocable) para vivienda unifamiliar, otorgado al formalizar el expediente en el Sistema Digital de Obras Particulares (SiDOP) — el profesional actuante debe estar registrado en ese sistema. Durante la obra es obligatorio solicitar inspección en la etapa de "obra gruesa terminada", con suspensión de la obra hasta obtener el certificado de inspección. **Tampoco se encontró mención específica a steel/wood frame** en los requisitos. — [Tigre Municipio, presentación carpeta de obra](https://www.tigre.gob.ar/tramites/presentacion_carpeta_obra), consultado 2026-09-07
+- **Pilar:** búsqueda específica no arrojó resultados relevantes sobre requisitos de obra o construcción en seco — **dato no encontrado**, queda pendiente.
+- **Patrón que se confirma con estos 2 casos adicionales:** ningún municipio relevado hasta ahora (CABA, Lobos, La Matanza, Tigre) tiene un circuito de aprobación diferenciado específicamente para steel/wood frame — todos tratan el trámite de obra de forma agnóstica al sistema constructivo, salvo el caso puntual de Lobos que reconoce el sistema por resolución expresa. Esto refuerza que el "hueco de información" real no es tanto normativa faltante, sino la ausencia de una guía centralizada que junte los trámites de varios municipios en un solo lugar — sigue siendo una oportunidad de contenido/lead magnet (ver Ideas de contenido).
+- **Pendiente:** San Isidro, Pilar (en profundidad), Vicente López, y otros municipios de alto volumen de autoconstrucción — sigue sin completarse el relevamiento del AMBA.
+
+**Competencia (ver sección Competencia más abajo para el análisis completo)**
 
 **Financiamiento — ampliación a otros bancos (más allá de Banco Provincia, cubierto el 2026-09-03)**
 
@@ -115,6 +139,28 @@ Este archivo se actualiza de forma incremental por una rutina automática de res
 
 **Patrón que se repite en esta corrida:** de los 3 actores nuevos, en **ningún caso se pudo confirmar una cifra de precio propia y verificada directamente en el sitio** — todos los intentos de lectura directa fueron bloqueados por el proxy de red del entorno (`EGRESS_BLOCKED`) o fallaron por DNS. Esto es una limitación real de esta rutina automatizada (no del research en sí) que conviene tener presente: los precios de competidores concretos requieren verificación manual humana, la búsqueda web sola no alcanza cuando el sitio bloquea o no expone precios en snippets indexados.
 
+### Iteración 2026-09-07 — 3 actores nuevos analizados (institutos sectoriales + constructora regional)
+
+**7. INCOSE — Instituto de la Construcción en Seco** (incose.org.ar)
+- Qué es: instituto fundado en 1993, integrado por empresas líderes del sector de construcción en seco, con función de capacitar, asesorar y promover las ventajas del sistema. Ya había sido citado como fuente de normativa en iteraciones anteriores (2026-09-03), pero no se había analizado como actor competitivo/de contenido en sí mismo.
+- Propuesta de valor: cursos de 1 a 3 días sobre temas puntuales de steel framing y construcción en seco, en modalidad online (algunos gratuitos, otros pagos). Tiene una alianza con la Universidad Católica Argentina (UCA) para cursos más largos y formales — en marzo 2026 lanzaron la 10ª edición de "Teoría de Construcción de Viviendas en Acero", 100% online, 72 horas cátedra, dictado de abril a octubre 2026, abierto a toda la comunidad sin requerir matrícula profesional previa.
+- Precios públicos: no se confirmaron cifras concretas en esta búsqueda (ni de los cursos cortos ni del curso UCA-INCOSE) — **dato no encontrado**, requiere visitar incose.org.ar directamente (bloqueado por el proxy en corridas anteriores, no se reintentó el acceso directo en esta).
+- Hueco que deja: mismo patrón que Perfiles JMA y Escuela de Steel Framing — es formación técnica/académica (para quien va a trabajar en el rubro o quiere entender la teoría estructural a fondo), no un recurso de decisión de compra para el autoconstructor que evalúa costos, financiamiento y trámite antes de arrancar. A diferencia de los otros dos, INCOSE tiene el respaldo de ser un instituto sectorial "neutral" (no vende un curso de una sola marca), lo que le da más credibilidad como fuente citable — pero eso también lo hace menos orientado a captar audiencia de autoconstructores particulares. — [ARQA, capacitación INCOSE](https://arqa.com/academico/cursos-seminarios/capacitacion-gratuita-del-sistema-de-construccion-en-seco-por-incose.html), [Revista Habitat, INCOSE-UCA 10° curso](https://revistahabitat.com/articulos/incose-y-la-uca-lanzan-el-10-curso-de-construccion-de-viviendas-en-acero-en-pleno-auge-del-steel-framing-en-argentina), consultado 2026-09-07
+
+**8. Cámara Argentina del Steel Frame (CASF)** (camarasteelframe.com.ar / camarasteelframe.org.ar)
+- Qué es: cámara sectorial dedicada a la difusión del sistema steel frame, con presencia activa en YouTube y Facebook (ciclo de charlas online, transmisiones en vivo) orientada a profesionalización, educación y desarrollo del sistema constructivo. **Nota:** existen dos dominios (.com.ar y .org.ar) que aparentemente corresponden a la misma organización o a organizaciones relacionadas — no se pudo confirmar la relación exacta entre ambos por bloqueo de acceso directo.
+- Propuesta de valor: charlas online gratuitas y contenido audiovisual recurrente (formato "ciclo de charlas"), más orientado a construir comunidad y visibilidad del sistema que a vender un producto o curso puntual — es el actor más parecido a un "medio sectorial" de los relevados hasta ahora, junto con el canal de YouTube de la Cámara ya mencionado como pendiente en la iteración 2026-09-03.
+- Precios: no aplica (no vende cursos ni productos identificados en esta búsqueda) — es difusión institucional.
+- Hueco / señal competitiva: el contenido está pensado para audiencia ya interesada/profesional del rubro (charlas técnicas, networking sectorial), no para el público general que busca "¿me conviene construir así?" con lenguaje simple. Es una fuente de autoridad citable (nombre de cámara sectorial) pero no compite directamente por la audiencia de autoconstructores que este proyecto busca. — [Cámara Argentina del Steel Frame, YouTube](https://www.youtube.com/@camaraargentinadelsteelfra764), [Facebook](https://web.facebook.com/CamaraSteelFrameAr/), consultado 2026-09-07 (acceso directo a camarasteelframe.com.ar bloqueado por proxy, `EGRESS_BLOCKED`)
+
+**9. Steel Frame Constructora / SteelMat — actores regionales en Santa Fe (Rosario / Venado Tuerto)**
+- Qué es: dos constructoras con base en la provincia de Santa Fe. Steel Frame Constructora opera desde Venado Tuerto con oficina en Rosario, ofreciendo planos, logística, mano de obra y construcción de viviendas en steel frame, wood frame o modular. SteelMat (steelmat.com.ar) es otro proveedor de construcción steel frame en Santa Fe identificado en esta búsqueda pero no explorado en profundidad.
+- Propuesta de valor: modelo de constructora regional "todo incluido" (diseño + logística + mano de obra + construcción) con alcance multi-sistema (no solo steel, también wood y modular) — a diferencia de los actores de CABA/Buenos Aires relevados antes, estos apuntan a un mercado del interior (Santa Fe/Rosario), lo cual sugiere que la demanda de autoconstrucción en seco no está concentrada solo en AMBA.
+- Precios: **no se pudo verificar** — ni la búsqueda ni el intento de acceso directo aportaron cifras propias de m² para ninguna de las dos empresas; solo aparecen como resultado de búsqueda con datos de contacto (teléfonos de Steel Frame Constructora: 341-3778262 / 3462-415650).
+- Hueco / señal competitiva: confirma que hay competencia regional fuera de CABA/AMBA que este research todavía no había mapeado — si el proyecto tiene foco geográfico nacional (no solo AMBA), vale la pena una corrida dedicada a mapear actores del interior (Córdoba, Santa Fe, Mendoza —ya con mención de "Steel Frame Mendoza" en iteración 1—, y otras provincias). — [Steel Frame Constructora](https://steelframeconstructora.com.ar/), [SteelMat](https://www.steelmat.com.ar/), consultado 2026-09-07
+
+**Patrón de esta corrida:** de los 3 actores institucionales/regionales relevados, ninguno resultó ser competencia directa en el ángulo "contenido de decisión de compra para autoconstructores" que sigue siendo el hueco más consistente detectado en las 3 corridas hasta ahora (Perfiles JMA, Escuela de Steel Framing, INCOSE, CASF son todos formación/difusión técnica; Fabricasa, Prefablot, Viviendas Argentinas, Steel Frame Constructora/SteelMat son todos constructoras/kits llave en mano). Roomix.ai (iteración 2026-09-03) sigue siendo el único actor identificado que compite específicamente en contenido comparativo de costos.
+
 ---
 
 ## Borradores de propuestas
@@ -163,6 +209,28 @@ Este archivo se actualiza de forma incremental por una rutina automática de res
 
 ---
 
+### BORRADOR - REVISIÓN HUMANA PENDIENTE (2026-09-07)
+
+**Tipo:** artículo corto / nota de actualidad, pensado para publicar rápido aprovechando un dato de coyuntura (la suba de agosto 2026), no una pieza evergreen como los borradores anteriores.
+
+---
+
+**Título tentativo:** "En agosto 2026 el steel frame se puso más caro que la construcción tradicional en Argentina: qué pasó y qué significa"
+
+**Ángulo:** este borrador actualiza y matiza el ángulo del primer borrador (2026-09-03), que decía que steel/wood frame "no siempre es más barato". El nuevo dato de LA NACIÓN (agosto 2026) es más fuerte que eso: por primera vez en el research de este proyecto aparece una fuente que dice explícitamente que el steel frame quedó **por encima** de la tradicional en costo por m² (~USD 1.770 vs. ~USD 1.440+IVA). Esto es contraintuitivo para el discurso de marketing del sector ("construcción en seco = más barata y más rápida") y es un buen gancho de honestidad/actualidad.
+
+**Estructura sugerida:**
+1. Gancho: dato duro de agosto 2026 — steel frame ~USD 1.770/m² vs. tradicional ~USD 1.440/m² + IVA, según LA NACIÓN.
+2. Contexto: esto no es un capricho aislado — la nota de Construar.com.ar (misma fecha) dice que viene de una suba sostenida en "los últimos meses", atribuida a factores estacionales y alta demanda. Aclarar que **no se pudo verificar la serie completa mes a mes** (falta cruzar enero-agosto 2026), así que la pieza debe presentar esto como una foto de agosto, no como una tendencia confirmada mes a mes — encargar a la persona que revisa que arme esa serie con los links de la sección Fuentes si quiere una afirmación más fuerte sobre "tendencia".
+3. El otro lado de la moneda: por qué la demanda de construcción en seco sigue creciendo pese a ser más cara según este dato — plazos 25-40% más rápidos, previsibilidad de costo frente a la inflación (aunque la mano de obra sea más barata en proporción, hay menos exposición porque la obra dura menos), mejor aprovechamiento de espacio (paredes de 14-15cm vs 35-45cm).
+4. Conexión con hallazgos previos del proyecto: recordar (con matiz, no como contradicción tajante) que en julio 2026 otras fuentes ubicaban a steel frame en rangos que se superponían con la tradicional (USD 1.000-1.800 vs. USD 700-1.440 según la fuente) — la dispersión entre fuentes sigue siendo alta, así que el mensaje no es "el steel frame ahora es caro, punto", sino "los datos de agosto marcan un cruce que vale la pena vigilar mes a mes".
+5. Qué significa para alguien que está evaluando autoconstruir hoy: no descartar el sistema solo por precio de m² — mirar también plazo de obra y previsibilidad de flujo de caja durante la construcción, que siguen siendo ventajas del sistema independientemente del cruce de precios de agosto.
+6. CTA suave: invitar a dejar el mail para recibir la actualización mensual de precios (si hay lead magnet real) — este ángulo se presta bien a contenido recurrente mensual, replicando el formato de LA NACIÓN pero con más profundidad (financiamiento, trámite) que ellos no cubren.
+
+**Nota para la persona que revise:** la cifra clave (agosto 2026, USD 1.770 vs USD 1.440) viene de un resumen de búsqueda (snippet), no de lectura directa del artículo de LA NACIÓN — el acceso directo al sitio está bloqueado en este entorno. Antes de publicar, confirmar la cifra exacta y el contexto completo leyendo el artículo original: https://www.lanacion.com.ar/propiedades/construccion-y-diseno/cual-es-el-precio-por-metro-cuadrado-de-una-construccion-en-seco-en-agosto-2026-nid22082026/
+
+---
+
 ## Ideas de contenido
 
 - (2026-09-03) Comparativa de costo real por m² con fuentes cruzadas y fecha (ver borrador arriba).
@@ -174,6 +242,9 @@ Este archivo se actualiza de forma incremental por una rutina automática de res
 - (2026-09-04) Checklist descargable "Qué pedirle a tu municipio antes de construir en steel/wood frame" (CIRSOC 303, Certificado de Aptitud Técnica si aplica, diferencia entre aviso de obra y permiso de obra) — buen lead magnet a cambio de email/WhatsApp, aunque falta el relevamiento municipio-por-municipio para que sea realmente accionable.
 - (2026-09-04) Comparativa Argentina vs. México: por qué construir liviano en México (steel/wood frame) crece ~35% anual según fuentes sectoriales — posible ángulo "tendencia regional" para contenido, con la salvedad de que esa cifra de crecimiento no está verificada de forma independiente.
 - (2026-09-04) Nota tipo "así funciona el desembolso de un crédito de construcción" explicando en criollo el mecanismo de 3 tramos atados a % de avance de obra (Banco Nación) — contenido educativo genérico pero con demanda real, no requiere mencionar steel frame para ser útil al público objetivo.
+- (2026-09-07) Serie mensual propia de seguimiento de precios (steel/wood/tradicional), inspirada en el formato de LA NACIÓN pero agregando financiamiento y trámite municipal como LA NACIÓN no hace — buen contenido recurrente para captar audiencia que vuelve mes a mes (ver borrador arriba).
+- (2026-09-07) Nota "mapa de constructoras de steel/wood frame fuera de AMBA" (Santa Fe/Rosario, Mendoza, Córdoba) — hueco detectado esta corrida: casi toda la competencia analizada hasta ahora está en CABA/Buenos Aires, pero hay actores regionales activos (Steel Frame Constructora, SteelMat en Santa Fe) que sugieren demanda de autoconstrucción fuera del AMBA todavía no mapeada.
+- (2026-09-07) Comparativa "qué banco te presta para construir, tengas o no el sistema constructivo definido" — con los 4 bancos ya relevados (Provincia, Nación, Ciudad, ICBC) hay suficiente información para una pieza tipo tabla comparativa de financiamiento bancario completa, más completa que el hilo corto del 2026-09-04.
 
 ---
 
@@ -230,6 +301,28 @@ El acceso directo a viviendasargentinas.com, prefablot.com y constructorasantais
 - https://viviendasargentinas.com/precios/ (bloqueado — dato vía snippet)
 - https://steelframeconstructora.com.ar/ (mención adicional, no analizado en profundidad)
 
+### Consultadas el 2026-09-07
+
+El acceso directo a bancociudad.com.ar, camarasteelframe.com.ar y www.lanacion.com.ar estuvo bloqueado por el proxy de red del entorno (`EGRESS_BLOCKED`). Toda la información de estos sitios proviene de resúmenes de búsqueda (WebSearch), no de lectura directa — recomendado verificar manualmente antes de publicar cualquier cifra, en particular la de LA NACIÓN (agosto 2026) que es el hallazgo más relevante de esta corrida.
+
+- https://www.lanacion.com.ar/propiedades/construccion-y-diseno/cual-es-el-precio-por-metro-cuadrado-de-una-construccion-en-seco-en-agosto-2026-nid22082026/ (bloqueado — dato vía snippet)
+- https://www.lanacion.com.ar/propiedades/construccion-y-diseno/cual-es-el-precio-por-metro-cuadrado-de-una-construccion-en-seco-en-julio-2026-nid06072026/ (bloqueado — dato vía snippet)
+- https://www.construar.com.ar/2026/08/construccion-en-seco-en-argentina-cuanto-cuesta-el-metro-cuadrado-en-agosto-2026-y-por-que-crece-la-demanda/
+- https://www.iprofesional.com/economia/462839-creditos-hipotecarios-uva-banco-ciudad-hasta-200-millones-pesos-plazos-de-25-anos
+- https://mudafy.com.ar/blog/post/nuevos-creditos-hipotecarios-uva
+- https://bancociudad.com.ar/institucional/encuesta/PrestamoHipotecarioUVA (bloqueado — dato vía snippet de otras fuentes, no de esta página directamente)
+- https://www.lamatanza.gov.ar/planeamientourbano/fiscalizacion
+- https://www.paredestudio.com.ar/planos-municipales-partido-de-la-matanza/
+- https://www.tigre.gob.ar/tramites/presentacion_carpeta_obra
+- https://arqa.com/academico/cursos-seminarios/capacitacion-gratuita-del-sistema-de-construccion-en-seco-por-incose.html
+- https://revistahabitat.com/articulos/incose-y-la-uca-lanzan-el-10-curso-de-construccion-de-viviendas-en-acero-en-pleno-auge-del-steel-framing-en-argentina
+- https://www.incose.org.ar/
+- https://camarasteelframe.com.ar/ (bloqueado — dato vía snippet)
+- https://www.youtube.com/@camaraargentinadelsteelfra764
+- https://web.facebook.com/CamaraSteelFrameAr/
+- https://steelframeconstructora.com.ar/ (revisitado, mención en iteración 2026-09-04)
+- https://www.steelmat.com.ar/
+
 ---
 
 ## Log de iteraciones
@@ -249,3 +342,11 @@ El acceso directo a viviendasargentinas.com, prefablot.com y constructorasantais
 - Borrador generado: guión de hilo/carrusel corto sobre financiamiento bancario comparado (distinto en formato y ángulo al artículo largo de costos de la corrida anterior).
 - **Pendiente para próximas corridas:** verificar manualmente los sitios bloqueados de esta corrida (viviendasargentinas.com, prefablot.com, constructorasantaisabel.com.uy, fabricasa.com.ar) para obtener precios propios reales; Banco Ciudad quedó con datos incompletos (tasa y monto no encontrados) — completar; relevamiento municipio-por-municipio del AMBA (CABA, La Matanza, Tigre, Pilar, San Isidro u otros de alto volumen de autoconstrucción) sigue pendiente y requeriría una corrida dedicada; financiamiento hipotecario y normativa específica de Uruguay y México (solo se relevaron costos, no crédito ni regulación); validar o descartar la hipótesis propia de que sistemas industrializados facilitan cumplir hitos de desembolso bancario (no confirmada por ninguna fuente, marcada como tal en el borrador).
 - **Incidentes / contenido con instrucciones embebidas:** no se detectó, en los resúmenes de búsqueda ni en las páginas accesibles de esta corrida, texto dirigido a la IA pidiendo acciones. Los bloqueos de acceso (EGRESS_BLOCKED, DNS) fueron limitaciones técnicas del entorno, no contenido malicioso.
+
+### 2026-09-07 — Iteración 3
+
+- Cubierto (nuevo, no repetido de corridas anteriores): **hallazgo de coyuntura relevante** — la serie mensual de LA NACIÓN sobre precio del m² de construcción en seco muestra que en agosto 2026 el steel frame (~USD 1.770/m²) quedó por encima de la construcción tradicional (~USD 1.440/m² + IVA), matizando la conclusión provisoria de la iteración 1; financiamiento de Banco Ciudad (dato que había quedado pendiente en la iteración 2), completando el relevamiento de los 4 bancos identificados hasta ahora; normativa municipal en 2 partidos del AMBA no relevados antes (La Matanza y Tigre), confirmando que ningún municipio tiene circuito de aprobación diferenciado por sistema constructivo salvo el caso ya documentado de Lobos.
+- Competencia analizada: 3 actores institucionales/regionales nuevos — INCOSE (instituto sectorial con alianza UCA), Cámara Argentina del Steel Frame (difusión/charlas online), y constructoras regionales de Santa Fe (Steel Frame Constructora, SteelMat) — estas últimas revelan un hueco geográfico: casi toda la competencia mapeada hasta ahora está en CABA/AMBA, hay actores del interior sin explorar en profundidad.
+- Borrador generado: nota corta de actualidad sobre el cruce de precios de agosto 2026 (steel frame más caro que tradicional), con recomendación explícita de verificar la cifra en la fuente original antes de publicar porque se obtuvo vía snippet de búsqueda, no lectura directa.
+- **Pendiente para próximas corridas:** verificar manualmente la cifra de LA NACIÓN (agosto 2026) leyendo el artículo original, y si es posible armar la serie completa enero-agosto 2026 para confirmar si es tendencia sostenida o pico puntual; confirmar si la línea de Banco Ciudad sigue vigente después del 31/08/2026 (una fuente sugiere que esa era su fecha de vencimiento); completar el relevamiento AMBA con San Isidro, Pilar (no se encontró nada específico esta vez) y Vicente López; mapear competidores del interior (Córdoba, Mendoza, más de Santa Fe) dado el hueco geográfico detectado esta corrida; Uruguay y México siguen sin financiamiento ni normativa relevados (solo costos, cubiertos en iteración 2); seguir intentando verificar manualmente los sitios bloqueados de corridas anteriores (fabricasa.com.ar, prefablot.com, viviendasargentinas.com, bancociudad.com.ar, camarasteelframe.com.ar, lanacion.com.ar) — el bloqueo de red de este entorno (`EGRESS_BLOCKED`) sigue siendo la limitación estructural más recurrente de esta rutina.
+- **Incidentes / contenido con instrucciones embebidas:** no se detectó, en los resúmenes de búsqueda de esta corrida, texto dirigido a la IA pidiendo acciones fuera de lo solicitado por el usuario.
