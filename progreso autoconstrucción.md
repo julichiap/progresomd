@@ -69,6 +69,53 @@ Este archivo se actualiza de forma incremental por una rutina automática de res
 
 ---
 
+### Iteración 2026-09-08
+
+**Corrección importante a un hallazgo previo — el "decreto nacional" de steel frame NO es una noticia de 2026**
+
+- En la corrida del 2026-09-03 se documentó el caso de Lobos (Resolución 5-E/2018) como un "caso puntual" de reconocimiento municipal. Al buscar novedades normativas para esta corrida aparecieron **múltiples notas (algunas indexadas/fechadas como si fueran de 2026)** con el titular "el steel frame pasará a ser construcción tradicional por decreto nacional". Verificando el origen: es la **misma Resolución 5-E/2018** de la Secretaría de Vivienda y Hábitat del Ministerio del Interior, Obras Públicas y Vivienda, publicada en el Boletín Oficial el 01/02/2018, que declaró al Steel Framing como sistema constructivo tradicional **a nivel nacional** (no solo Lobos) y eliminó la exigencia del Certificado de Aptitud Técnica (CAT) para presentar proyectos ante municipios, bancos, institutos de vivienda provinciales, etc. — [El Cronista, 31/01/2018](https://www.cronista.com/negocios/Es-oficial-el-steel-frame-paso-a-ser-construccion-tradicional-20180131-0103.html), [CIFRAS ON LINE](https://www.cifrasonline.com.ar/steel-framing-ya-es-sistema-constructivo-tradicional-en-la-republica-argentina/)
+- **Lectura para el proyecto:** esto es contenido SEO "evergreen" que varios sitios republican o mantienen indexado con fecha reciente sin aclarar que la norma es de 2018. Es un dato importante para el research (la resolución sí es real y sí es nacional, corrigiendo el matiz de "caso puntual Lobos" de la iteración 1) pero también es una **señal de alerta metodológica**: hay que desconfiar de titulares "de último momento" sobre normativa en este rubro y verificar la fecha real del decreto/resolución, no la fecha de publicación del artículo. Es además un ángulo de contenido en sí mismo (ver Ideas de contenido).
+- Importante: esta resolución nacional **elimina la exigencia del CAT**, pero **no reemplaza la aprobación municipal de obra en sí** — el municipio igual debe aprobar el proyecto puntual (planos, memoria de cálculo, etc.); lo que deja de poder exigir es un certificado aparte que avale el *sistema constructivo* como tal.
+
+**Novedad normativa genuina de 2026: primera norma IRAM específica para Steel Framing**
+
+- El **IRAM presentó en junio de 2026** la norma **IRAM 51001-1 "Sistemas constructivos en seco Steel Framing. Parte 1 – Características y requisitos de los materiales componentes"**, la primera norma argentina (no CIRSOC, que es de diseño estructural, sino de estandarización de materiales) específica para este sistema. Cubre estructura, rigidización y arriostramiento, hermeticidad al agua/viento/vapor, aislación térmica y acústica, y materiales de terminación. La **Parte 2** (diseño, instalación y montaje) está en desarrollo, sin fecha confirmada de publicación. — [INCOSE, 26/06/2026](https://www.incose.org.ar/2026/06/26/iram-presento-la-primera-norma-nacional-para-el-sistema-steel-framing/), [Visión Sustentable, 01/07/2026](https://www.visionsustentable.com/2026/07/01/se-presento-la-primera-norma-iram-para-la-construccion-en-seco/)
+- Esto sí es una novedad real y fechable de 2026, a diferencia del punto anterior. Da un marco de estandarización de materiales que antes no existía a nivel de norma IRAM (solo fabricantes/CIRSOC para diseño estructural), lo cual en teoría ayuda a un autoconstructor a exigir materiales trazables/certificados a sus proveedores.
+
+**Normativa municipal — patrón confirmado en más municipios del AMBA**
+
+- Se relevaron San Isidro, Vicente López y La Matanza (sumados a CABA, ya cubierto el 2026-09-04). En los tres casos el trámite de permiso de obra es **genérico** (documentación de dominio, plano visado por colegio profesional, plano estructural si corresponde, formulario de clasificación de obra, certificado de libre deuda) y **no hay mención de un circuito diferenciado según sistema constructivo** (steel frame, wood frame o mampostería) en la información pública relevada. — [San Isidro, permiso de construcción](https://www.sanisidro.gob.ar/tramites-y-servicios/permiso-de-construcci%C3%B3n), [Vicente López, SPU](https://www.vicentelopez.gov.ar/spu), [La Matanza, planeamiento urbano](https://www.lamatanza.gov.ar/planeamientourbano/fiscalizacion)
+- **Conclusión provisoria reforzada:** con CABA + estos 3 municipios ya son 4 casos consistentes en que el trámite municipal en el AMBA no distingue por sistema constructivo (a diferencia de lo que sugeriría el marketing sectorial de "aprobación especial para steel frame"). No se puede afirmar que esto sea así en el 100% de los municipios del país sin relevar más casos, pero el patrón es cada vez más sólido. **Dato no encontrado (persiste):** Tigre y Pilar no devolvieron información específica sobre requisitos de obra en los resultados de búsqueda de esta corrida — pendiente para una próxima iteración si se quiere cerrar el relevamiento de zona norte del GBA.
+
+**Financiamiento — Banco Ciudad completado (dato pendiente desde 2026-09-04)**
+
+- **Banco Ciudad** tiene actualmente varias líneas relevantes: (1) crédito hipotecario UVA para primera vivienda en CABA, plazo hasta 25 años, monto máximo $150 millones, **tasa fija subsidiada 7,5% TNA**, financia hasta 75% del valor para unidades de hasta 80 m² cubiertos y tope de USD 2.800/m²; (2) **línea de créditos personales en UVA específica para comprar terreno y/o construir sobre lote ya adquirido** (incluye barrios cerrados), plazo hasta 10 años, monto hasta $100 millones, tasa fija 9,5% + UVA; (3) línea para vivienda única de ocupación permanente, hasta $200 millones, 25 años, 9,5% TNA. **No se encontró mención explícita a steel frame, wood frame ni sistemas industrializados** en ninguna de las tres líneas — mismo patrón "agnóstico al sistema constructivo" que Banco Nación e ICBC (ya documentado el 2026-09-04). — [LA NACION, Banco Ciudad paso a paso](https://www.lanacion.com.ar/sociedad/casa-propia-paso-a-paso-como-sacar-un-credito-hipotecario-del-banco-ciudad-nid18032026/), [El Cronista, relanzamiento líneas](https://www.cronista.com/finanzas-mercados/creditos-hipotecarios-relanzan-lineas-con-mas-plazos-y-tasas-reducidas/)
+- Con este dato, de los 4 bancos relevados en total (Provincia, Nación, ICBC, Ciudad), **Banco Provincia sigue siendo el único** con mención explícita de sistemas industrializados/steel frame en su línea de construcción — el hallazgo de la corrida anterior queda confirmado, no solo no contradicho.
+
+**Financiamiento — Uruguay (dato pendiente desde 2026-09-04, ahora cubierto)**
+
+- **BHU (Banco Hipotecario del Uruguay):** línea de crédito para construcción en terreno propio, tasa base **desde 3,75% TEA en UI** (unidad indexada; según la fuente, "la más baja del mercado uruguayo"), montos hasta 2.800.000 UI, plazos hasta 25 años, financia hasta 100% del costo de construcción según perfil del solicitante. — [Piso Inmobiliario, BHU 2026](https://www.pisoinmobiliario.com/blog-entry/347-credito-hipotecario-bhu-2026-simulador-tasas-requisitos)
+- **BROU:** no ofrece un hipotecario de construcción como producto principal — tiene préstamos de consumo (pesos, UI, dólares, hasta 36 meses) y un programa "Entre Todos" para financiar proyectos de vivienda colectivos/cooperativos (hasta 70% de la inversión), más un convenio con BHU que bonifica costos de gestión del crédito. — [BROU, Programa Entre Todos](https://www.brou.com.uy/clientes-empresa/empresas/credito/programa-entre-todos-proyectos-de-viviendas), [Piso Inmobiliario, hipotecas Uruguay 2026](https://www.pisoinmobiliario.com/blog-entry/133-hipotecas-uruguay-2026-bhu-brou-bancos-privados)
+- **Ninguna de las dos fuentes menciona un tratamiento diferencial para steel/wood frame** en Uruguay — mismo patrón que Argentina (crédito agnóstico al sistema constructivo).
+- **Precio steel framing Uruguay — discrepancia entre corridas, a señalar:** esta corrida encontró **"desde USD 1.200/m² + IVA"** (Luis Fernández, sitio técnico uruguayo, sin fecha precisa más allá de "2026") vs. **"desde USD 950/m²"** encontrado el 2026-09-04 (Constructora Santa Isabel, precio de un proveedor puntual para módulos transportables). Son fuentes y ofertas distintas (una es precio de referencia técnica general, la otra el "desde" de un proveedor específico de módulos), así que no es necesariamente una contradicción, pero confirma que en Uruguay también hay dispersión de precios según fuente — tratar como rango orientativo USD 950–1.200+/m², no como cifra única. — [Luis Fernández, precio steel framing Uruguay 2026](https://luisfernandez.uy/precio-steel-framing-uruguay-2026-costo-por-m%c2%b2-financiacion/)
+
+**Normativa técnica — Uruguay (dato pendiente desde 2026-09-04, ahora cubierto)**
+
+- Uruguay tiene su propia serie de normas técnicas específicas para steel framing: **UNIT 1360**, desarrollada por el Comité Steel Framing de UNIT (Instituto Uruguayo de Normas Técnicas), con el respaldo de la Agencia Nacional de Vivienda (ANV). La serie incluye normas de Productos, Terminología, Proyecto y Control de obra, con una quinta norma de Evaluación de Desempeño en desarrollo. Las normas son de acceso público y gratuito a través de un visor en el sitio de UNIT. **No se pudo determinar la fecha exacta de lanzamiento de la serie completa** (los resultados de búsqueda no la precisan más allá de "reciente"/2026) — a confirmar en una próxima corrida si es un dato relevante para el contenido. — [UNIT, lanzamiento normas Steel Framing](https://www.unit.org.uy/novedades/ver/lanzamiento_de_normas_unit_steel_framing/), [ANV, normalizando criterios](https://www.anv.gub.uy/normalizando-criterios-de-construccion-steel-framing)
+- Esto es un contraste interesante con Argentina: Uruguay ya tiene una norma técnica nacional específica y unificada (UNIT 1360) para todo el sistema (no solo materiales), mientras que Argentina recién este año (2026) sacó la primera parte de una norma IRAM (solo materiales, Parte 2 de diseño/instalación aún pendiente) y sigue sin código de edificación unificado a nivel país.
+
+**Financiamiento — México (dato pendiente desde 2026-09-04, ahora cubierto)**
+
+- **Infonavit:** para 2026 tiene esquemas de crédito para construcción en terreno propio con montos que pueden llegar hasta **$2,9 millones de pesos MXN**, dependiendo de salario, edad, capacidad de endeudamiento e historial crediticio (el monto exacto solo se conoce precalificando en "Mi Cuenta Infonavit"). — [Construction Supply Magazine, crédito Infonavit terreno propio 2026](https://www.constructionsupplymagazine.com/blogs/noticias/credito-infonavit-para-construir-en-terreno-propio-2026-requisitos-y-montos)
+- **Fovissste:** también permite construir en terreno propio (no solo comprar vivienda terminada) bajo su línea de crédito tradicional; existe además la posibilidad de sumar montos con Infonavit para parejas donde ambos aportan a ambos institutos. — [Fovissste, gob.mx](https://www.gob.mx/fovissste/acciones-y-programas/credito-fovissste-infonavit-individual-253886)
+- **No se encontró mención a steel frame, wood frame ni sistemas industrializados** como criterio en ninguno de los dos programas — mismo patrón "agnóstico al sistema constructivo" que en Argentina y Uruguay. Con esto, el patrón se repite en los tres países relevados: **el financiamiento hipotecario/de construcción en la región no distingue por sistema constructivo**, solo por avance de obra, terreno propio y perfil crediticio del solicitante — esto ya se puede tratar como un hallazgo consolidado, no solo una hipótesis (era una hipótesis no confirmada el 2026-09-04; con Argentina, Uruguay y México apuntando en la misma dirección, sube de "hipótesis propia" a "patrón regional razonablemente confirmado", aunque sigue siendo con el matiz de que Banco Provincia es la única excepción relevada hasta ahora).
+
+**Precio actualizado steel frame Argentina — septiembre 2026**
+
+- Según relevamiento con datos hasta el 27/08/2026, el costo del m² de steel frame en pesos alcanzó **$2.127.274,53** (vs. $2.090.742,57 reportado el 2026-09-03 con datos al 30/07/2026) — suba de aproximadamente 1,7% mes a mes, consistente con la variación mensual de ~1,64% ya documentada en la corrida anterior. Rango en dólares se mantiene sin cambios reportados: USD 650–1.800/m² según terminación y zona. — [búsqueda web, sin URL de fuente primaria verificable directamente — cifra reportada en snippet de búsqueda, tratar con cautela hasta confirmar contra cifrasonline.com.ar directamente, que dio EGRESS_BLOCKED en el intento de esta corrida]
+
+---
+
 ## Competencia
 
 ### Iteración 2026-09-03 — 3 actores nuevos analizados
@@ -114,6 +161,28 @@ Este archivo se actualiza de forma incremental por una rutina automática de res
 - Hueco que deja: como los otros actores de "constructora llave en mano", no cubre financiamiento ni trámite municipal como parte de su propuesta pública — mismo hueco que Perfiles JMA y Escuela de Steel Framing, pero desde el lado de la obra (no de la capacitación).
 
 **Patrón que se repite en esta corrida:** de los 3 actores nuevos, en **ningún caso se pudo confirmar una cifra de precio propia y verificada directamente en el sitio** — todos los intentos de lectura directa fueron bloqueados por el proxy de red del entorno (`EGRESS_BLOCKED`) o fallaron por DNS. Esto es una limitación real de esta rutina automatizada (no del research en sí) que conviene tener presente: los precios de competidores concretos requieren verificación manual humana, la búsqueda web sola no alcanza cuando el sitio bloquea o no expone precios en snippets indexados.
+
+### Iteración 2026-09-08 — 3 actores nuevos analizados
+
+**7. construccionenseco.net** — sitio de contenido + directorio comparador, multi-país (actor no obvio, competidor directo de contenido)
+- Qué es: sitio de contenido especializado en construcción en seco (steel frame, wood frame, EPS, drywall, hormigón prefabricado, modular) que además funciona como **directorio/comparador de empresas por ciudad y país** — tiene listados tipo "Steel Framing en Buenos Aires: 15 empresas comparadas", y equivalentes para Córdoba, Chile, Madrid, Barcelona y Perú. Es decir, opera en Argentina **y** en mercados comparables de habla hispana (España, Chile) desde el mismo sitio.
+- Propuesta de valor: guías prácticas + comparativas + directorios organizados para "tomar mejores decisiones antes de avanzar en obra" — ayuda al usuario a comparar constructoras y pedir presupuestos, funcionando como intermediario de leads entre el autoconstructor/comprador y las empresas del rubro.
+- Precios: no vende directamente — es un modelo de contenido + generación de leads hacia terceros (constructoras listadas), no un producto de construcción propio. No se pudo confirmar si cobra a las empresas por aparecer en el listado (no verificado).
+- Hueco / señal competitiva: **es el competidor de contenido más directo relevado hasta ahora** — más que Roomix (que es proptech general, no especializado) y más que los institutos de capacitación (JMA, Escuela de Steel Framing). Cubre varios países a la vez, algo que este proyecto todavía no hace de forma sistemática (Chile y España solo se relevaron para datos de mercado, no hay comparativa propia de proveedores ahí). Su debilidad aparente: es contenido genérico de "qué es y ventajas" + directorio, sin el ángulo de financiamiento bancario ni de trámite municipal que sí está cubierto en este research — ahí sigue habiendo un hueco a explotar. — [construccionenseco.net, home](https://construccionenseco.net/), [Steel Framing en Buenos Aires, 15 empresas](https://construccionenseco.net/empresas-steel-framing-en-buenos-aires/), [Steel Framing en Madrid](https://construccionenseco.net/steel-framing-en-madrid/), [Steel Framing en Chile](https://construccionenseco.net/empresas-steel-framing-en-chile/)
+
+**8. SteelFrame Studio** (steelframestudio.com.ar) — software de cómputo y diseño estructural para profesionales
+- Qué es: **no es una constructora ni un proveedor de insumos** — es un software de estimación y diseño estructural en steel frame para uso profesional, con diseño paramétrico, dibujo de muros por click-and-drag, verificaciones técnicas, cómputo de materiales y exportación a PDF/DXF/IFC. Soporta normativa de referencia de Argentina, Chile, Uruguay y Paraguay. Funciona offline, con modelo de pago único (no suscripción, según lo relevado).
+- Propuesta de valor: herramienta B2B para arquitectos/ingenieros/constructoras que ya trabajan con el sistema, no para el autoconstructor final — resuelve el cómputo y la trazabilidad técnica del proyecto, con la salvedad explícita de que "no reemplaza la responsabilidad profesional matriculada".
+- Precios: no se relevó cifra concreta (modelo de pago único mencionado, pero sin monto).
+- Hueco / señal competitiva: confirma que el ecosistema de steel frame en la región tiene un segmento B2B de herramientas técnicas (software) separado del segmento B2C (constructoras llave en mano, cursos, kits) que este research viene relevando — no es competencia directa de un producto para autoconstructores, pero es una señal de que el sistema está lo bastante maduro en la región como para sostener herramientas de software dedicadas multi-país. También publica un blog de contenido (el mismo que dio el precio de septiembre 2026 en pesos citado en Hallazgos de mercado), lo que lo acerca un poco al terreno de content marketing de Roomix o construccionenseco.net. — [SteelFrame Studio, home](https://steelframestudio.com.ar/en/)
+
+**9. Cámara Argentina del Steel Frame (CASF)** (camarasteelframe.org.ar) — entidad sectorial, no comercial
+- Qué es: cámara/entidad sectorial dedicada a la profesionalización, educación y desarrollo del sistema steel frame en Argentina, con canal de YouTube propio y programa de capacitación (camarasteelframe.org.ar/capacitacion.php). Ya había sido identificada como pendiente de análisis desde la iteración 1 (2026-09-03).
+- Propuesta de valor: al ser una cámara sectorial (no una empresa que vende un producto propio), su rol es más de estándares, difusión y networking del rubro que de captación comercial directa — similar en naturaleza a INCOSE (que sigue sin analizarse en profundidad, también pendiente desde la iteración 1).
+- Precios: no aplica (no es un producto comercial).
+- Hueco / señal competitiva: no es competencia directa, pero es una fuente primaria de peso para verificar novedades normativas del sector (fue la fuente para la norma IRAM 51001-1 documentada arriba, vía INCOSE que republica su contenido). Vale la pena seguir su canal de YouTube y comunicados como fuente de vigilancia normativa/sectorial más que como competidor. **No se pudo profundizar en el contenido específico de su programa de capacitación 2026** (fechas, precios, modalidad) en esta corrida — los resultados de búsqueda no devolvieron el detalle, y el sitio no fue accedido de forma directa. — [Cámara Argentina del Steel Frame](https://camarasteelframe.org.ar/), [CASF, capacitación](https://camarasteelframe.com.ar/capacitacion.php), [CASF, YouTube](https://www.youtube.com/@camaraargentinadelsteelfra764)
+
+**Actores identificados pero no analizados en profundidad esta corrida (para próximas iteraciones):** INCOSE (instituto sectorial, mencionado varias veces como fuente pero nunca analizado como actor propio — tiene curso gratuito según lo relevado en la iteración 1); TDS Group, Steel Tech Group, Patagonia Steel Frame, Orcesi Construcciones, Steelframe CBA (constructoras regionales que aparecieron en esta corrida sin analizar); Ternium (fabricante de acero que ofrece capacitación en steel framing — ar.ternium.com/es/steel-framing/calendario-capacitacion-sf — actor industrial grande, distinto en escala a los ya relevados).
 
 ---
 
@@ -163,6 +232,28 @@ Este archivo se actualiza de forma incremental por una rutina automática de res
 
 ---
 
+### BORRADOR - REVISIÓN HUMANA PENDIENTE (2026-09-08)
+
+**Tipo:** artículo corto / nota de "desmentido" (fact-check) — ángulo distinto a los dos borradores anteriores (que eran comparativa de costos y guion de hilo sobre bancos); este explota directamente el hallazgo metodológico de esta corrida.
+
+---
+
+**Título tentativo:** "No, el steel frame no 'se declaró construcción tradicional' en 2026: por qué esa noticia que circula tiene 8 años"
+
+**Ángulo:** varios sitios y blogs del rubro (relevados en esta corrida buscando novedades normativas 2026) publican o mantienen indexado con fecha reciente el titular "el steel frame pasará a ser construcción tradicional por decreto nacional", dando la impresión de que es una novedad de este año. En realidad es la Resolución 5-E/2018 (Secretaría de Vivienda y Hábitat, Ministerio del Interior, Obras Públicas y Vivienda), publicada en el Boletín Oficial el 01/02/2018. La nota real y verificable de 2026 es otra: la norma **IRAM 51001-1** (junio 2026), la primera norma argentina de materiales para steel framing. Esta pieza sirve para (a) aclarar la confusión con datos y fechas verificables, (b) mostrarle al lector qué SÍ es nuevo en 2026, y (c) posicionar la marca/proyecto como una fuente que verifica fechas en un rubro donde el contenido SEO "evergreen" prolifera.
+
+**Estructura sugerida:**
+1. Gancho: "Si buscás 'steel frame construcción tradicional 2026' vas a encontrar el mismo titular en decenas de sitios. El problema: la norma que citan es de 2018."
+2. Qué dice realmente la Resolución 5-E/2018: quién la dictó, qué cambió en la práctica (eliminó la exigencia del Certificado de Aptitud Técnica — CAT — para presentar proyectos ante municipios, bancos e institutos de vivienda), y por qué sigue vigente hoy.
+3. Por qué esto importa igual para quien está por autoconstruir en 2026: aunque no sea noticia nueva, sigue siendo información práctica válida y poco conocida (muchos autoconstructores no saben que el CAT ya no es obligatorio a nivel nacional).
+4. Lo que SÍ es nuevo en 2026: la norma IRAM 51001-1 (junio 2026), primera norma argentina de estandarización de materiales de steel framing — explicar en criollo qué cubre (estructura, hermeticidad, aislación, terminaciones) y qué falta (la Parte 2, de diseño e instalación, todavía no salió).
+5. Contraste breve con Uruguay, que ya tiene una norma técnica más abarcativa y unificada (UNIT 1360) desde antes — como dato de color, no como juicio de valor sobre cuál país "hace mejor las cosas" (evitar afirmaciones no verificadas sobre por qué la diferencia).
+6. Cierre honesto: recordar que esta norma de materiales no reemplaza la aprobación municipal puntual del proyecto (eso sigue dependiendo de cada municipio, como ya se documentó en corridas anteriores) — no generar la falsa expectativa de que "ya está todo resuelto a nivel nacional".
+
+**Nota para la persona que revise:** esta pieza depende de que la fecha de la Resolución 5-E/2018 (01/02/2018, Boletín Oficial) y la fecha de la norma IRAM 51001-1 (junio 2026) estén bien verificadas antes de publicar — ambas surgen de fuentes secundarias (notas de prensa/blogs, no el Boletín Oficial ni el sitio de IRAM leídos directamente, porque ambos intentos de acceso directo fueron bloqueados por el proxy de red de esta rutina). Confirmar contra el Boletín Oficial (boletinoficial.gob.ar) y iram.org.ar antes de publicar cualquier afirmación tajante sobre fechas.
+
+---
+
 ## Ideas de contenido
 
 - (2026-09-03) Comparativa de costo real por m² con fuentes cruzadas y fecha (ver borrador arriba).
@@ -174,6 +265,11 @@ Este archivo se actualiza de forma incremental por una rutina automática de res
 - (2026-09-04) Checklist descargable "Qué pedirle a tu municipio antes de construir en steel/wood frame" (CIRSOC 303, Certificado de Aptitud Técnica si aplica, diferencia entre aviso de obra y permiso de obra) — buen lead magnet a cambio de email/WhatsApp, aunque falta el relevamiento municipio-por-municipio para que sea realmente accionable.
 - (2026-09-04) Comparativa Argentina vs. México: por qué construir liviano en México (steel/wood frame) crece ~35% anual según fuentes sectoriales — posible ángulo "tendencia regional" para contenido, con la salvedad de que esa cifra de crecimiento no está verificada de forma independiente.
 - (2026-09-04) Nota tipo "así funciona el desembolso de un crédito de construcción" explicando en criollo el mecanismo de 3 tramos atados a % de avance de obra (Banco Nación) — contenido educativo genérico pero con demanda real, no requiere mencionar steel frame para ser útil al público objetivo.
+- (2026-09-08) Nota de desmentido/fact-check sobre el "decreto nacional 2026" que en realidad es la Resolución 5-E/2018 (ver borrador arriba) — ángulo de autoridad/confianza, poco explotado por la competencia relevada hasta ahora.
+- (2026-09-08) Explicador corto "qué cambia con la norma IRAM 51001-1" — la primera norma argentina de materiales para steel framing (junio 2026), en lenguaje simple para quien no es técnico.
+- (2026-09-08) Pieza "el crédito para construir no le importa si hacés steel frame, wood frame o ladrillo" — con el patrón ahora confirmado en Argentina, Uruguay y México (financiamiento agnóstico al sistema constructivo, salvo la excepción de Banco Provincia) como hallazgo consolidado de varias corridas, no solo una hipótesis aislada.
+- (2026-09-08) Comparativa corta Argentina vs. Uruguay en normativa técnica: Uruguay ya tiene una norma unificada (UNIT 1360) mientras Argentina recién sacó la Parte 1 de una norma de materiales (IRAM 51001-1) — ángulo de "estado de madurez regulatoria" por país, con cautela de no especular sobre causas sin fuente.
+- (2026-09-08) Directorio/comparador propio de proveedores de kits y perfilería en Argentina (con financiamiento y trámite municipal como valor agregado que hoy no cubren los comparadores existentes como construccionenseco.net) — idea de producto más que de contenido puntual, a validar con la persona que revisa si encaja con el objetivo del proyecto.
 
 ---
 
@@ -230,6 +326,42 @@ El acceso directo a viviendasargentinas.com, prefablot.com y constructorasantais
 - https://viviendasargentinas.com/precios/ (bloqueado — dato vía snippet)
 - https://steelframeconstructora.com.ar/ (mención adicional, no analizado en profundidad)
 
+### Consultadas el 2026-09-08
+
+El acceso directo a viviendasargentinas.com (revisitado), steelframestudio.com.ar, www.cifrasonline.com.ar, www.region.com.ar, www.incose.org.ar, aiter.com.ar, www.demaquinasyherramientas.com y www.rosariofinanzas.com.ar estuvo bloqueado por el proxy de red del entorno (`EGRESS_BLOCKED`). Toda la información de esos sitios en esta corrida proviene de resúmenes de búsqueda (WebSearch), no de lectura directa. En particular, **las fechas de la Resolución 5-E/2018 y de la norma IRAM 51001-1 no pudieron verificarse contra la fuente primaria** (Boletín Oficial / iram.org.ar) — quedan marcadas como pendientes de verificación manual antes de publicar cualquier contenido que dependa de esas fechas.
+
+- https://www.lanacion.com.ar/sociedad/casa-propia-paso-a-paso-como-sacar-un-credito-hipotecario-del-banco-ciudad-nid18032026/
+- https://www.cronista.com/finanzas-mercados/creditos-hipotecarios-relanzan-lineas-con-mas-plazos-y-tasas-reducidas/
+- https://www.bancociudad.com.ar/cms/recursos/institucional/carpetarecurso/Compliance-InfoUsuarioFinanciero/RESUMEN_Condiciones_Prestamos_Hipotecarios_UVA.pdf (mencionado en resultados, no leído directamente)
+- https://www.brou.com.uy/clientes-empresa/empresas/credito/programa-entre-todos-proyectos-de-viviendas
+- https://www.pisoinmobiliario.com/blog-entry/347-credito-hipotecario-bhu-2026-simulador-tasas-requisitos
+- https://www.pisoinmobiliario.com/blog-entry/133-hipotecas-uruguay-2026-bhu-brou-bancos-privados
+- https://luisfernandez.uy/precio-steel-framing-uruguay-2026-costo-por-m%c2%b2-financiacion/
+- https://www.unit.org.uy/novedades/ver/lanzamiento_de_normas_unit_steel_framing/
+- https://www.unit.org.uy/normalizacion/normas/cte/179
+- https://www.anv.gub.uy/normalizando-criterios-de-construccion-steel-framing
+- https://www.sanisidro.gob.ar/tramites-y-servicios/permiso-de-construcci%C3%B3n
+- https://www.vicentelopez.gov.ar/spu
+- https://www.lamatanza.gov.ar/planeamientourbano/fiscalizacion
+- https://www.incose.org.ar/2026/06/26/iram-presento-la-primera-norma-nacional-para-el-sistema-steel-framing/ (bloqueado — dato vía snippet)
+- https://www.visionsustentable.com/2026/07/01/se-presento-la-primera-norma-iram-para-la-construccion-en-seco/
+- https://norteenlinea.com/iram-presento-la-primera-norma-nacional-para-el-sistema-steel-framing/
+- https://www.cronista.com/negocios/Es-oficial-el-steel-frame-paso-a-ser-construccion-tradicional-20180131-0103.html
+- https://www.cifrasonline.com.ar/steel-framing-ya-es-sistema-constructivo-tradicional-en-la-republica-argentina/ (bloqueado — dato vía snippet)
+- https://www.cifrasonline.com.ar/el-sistema-constructivo-steel-frame-pasara-a-ser-construccion-tradicional-por-decreto-nacional/ (bloqueado — dato vía snippet)
+- https://www.constructionsupplymagazine.com/blogs/noticias/credito-infonavit-para-construir-en-terreno-propio-2026-requisitos-y-montos
+- https://www.gob.mx/fovissste/acciones-y-programas/credito-fovissste-infonavit-individual-253886
+- https://construccionenseco.net/
+- https://construccionenseco.net/empresas-steel-framing-en-buenos-aires/
+- https://construccionenseco.net/steel-framing-en-madrid/
+- https://construccionenseco.net/empresas-steel-framing-en-chile/
+- https://steelframestudio.com.ar/en/ (bloqueado — dato vía snippet)
+- https://steelframestudio.com.ar/blog/precios-steel-frame-argentina-2026 (bloqueado — dato vía snippet)
+- https://camarasteelframe.org.ar/
+- https://camarasteelframe.com.ar/capacitacion.php (mencionado en resultados, no leído directamente)
+- https://www.youtube.com/@camaraargentinadelsteelfra764
+- https://ar.ternium.com/es/steel-framing/calendario-capacitacion-sf (mención adicional, no analizado en profundidad)
+
 ---
 
 ## Log de iteraciones
@@ -249,3 +381,11 @@ El acceso directo a viviendasargentinas.com, prefablot.com y constructorasantais
 - Borrador generado: guión de hilo/carrusel corto sobre financiamiento bancario comparado (distinto en formato y ángulo al artículo largo de costos de la corrida anterior).
 - **Pendiente para próximas corridas:** verificar manualmente los sitios bloqueados de esta corrida (viviendasargentinas.com, prefablot.com, constructorasantaisabel.com.uy, fabricasa.com.ar) para obtener precios propios reales; Banco Ciudad quedó con datos incompletos (tasa y monto no encontrados) — completar; relevamiento municipio-por-municipio del AMBA (CABA, La Matanza, Tigre, Pilar, San Isidro u otros de alto volumen de autoconstrucción) sigue pendiente y requeriría una corrida dedicada; financiamiento hipotecario y normativa específica de Uruguay y México (solo se relevaron costos, no crédito ni regulación); validar o descartar la hipótesis propia de que sistemas industrializados facilitan cumplir hitos de desembolso bancario (no confirmada por ninguna fuente, marcada como tal en el borrador).
 - **Incidentes / contenido con instrucciones embebidas:** no se detectó, en los resúmenes de búsqueda ni en las páginas accesibles de esta corrida, texto dirigido a la IA pidiendo acciones. Los bloqueos de acceso (EGRESS_BLOCKED, DNS) fueron limitaciones técnicas del entorno, no contenido malicioso.
+
+### 2026-09-08 — Iteración 3
+
+- Cubierto (nuevo, no repetido de corridas anteriores): **corrección metodológica importante** — el titular "steel frame pasará a ser construcción tradicional por decreto nacional" que circula con apariencia de noticia 2026 es en realidad la Resolución 5-E/2018 (nacional, no solo el caso puntual de Lobos documentado en la iteración 1); novedad normativa genuina de 2026 — norma IRAM 51001-1 (junio 2026), primera norma argentina de materiales para steel framing; normativa municipal ampliada a San Isidro, Vicente López y La Matanza (mismo patrón sin circuito diferenciado por sistema constructivo que CABA); financiamiento completado en los 3 mercados que quedaban pendientes — Banco Ciudad (Argentina), BHU/BROU (Uruguay), Infonavit/Fovissste (México) — con el hallazgo de que el patrón "crédito agnóstico al sistema constructivo" ahora está confirmado en los tres países, no solo como hipótesis; normativa técnica de Uruguay (UNIT 1360) relevada por primera vez; precio actualizado de steel frame en pesos argentinos a agosto/septiembre 2026 (con nota de cautela sobre la fuente).
+- Competencia analizada: 3 actores nuevos — construccionenseco.net (directorio/comparador de contenido multi-país, el competidor de contenido más directo relevado hasta ahora), SteelFrame Studio (software B2B de cómputo y diseño estructural, no competencia directa pero señal de madurez del ecosistema), Cámara Argentina del Steel Frame / CASF (entidad sectorial, fuente de vigilancia normativa más que competidor).
+- Borrador generado: nota de desmentido/fact-check sobre la confusión de fechas del "decreto nacional" (formato y ángulo distintos a los dos borradores anteriores — explota directamente el hallazgo metodológico de esta corrida en vez de ser comparativa de costos o guion de redes).
+- **Pendiente para próximas corridas:** verificar contra fuente primaria (Boletín Oficial, iram.org.ar) las fechas de la Resolución 5-E/2018 y la norma IRAM 51001-1 antes de publicar el borrador de esta corrida; Tigre y Pilar quedaron sin datos específicos de requisitos de obra (cerrar relevamiento de zona norte del GBA); profundizar en INCOSE como actor propio (mencionado muchas veces como fuente, nunca analizado como competidor/entidad); revisar el programa de capacitación 2026 de CASF (fechas, precios, modalidad — no se pudo acceder al detalle esta corrida); seguir sin verificar manualmente los sitios de competidores bloqueados desde iteraciones anteriores (viviendasargentinas.com, prefablot.com, constructorasantaisabel.com.uy, fabricasa.com.ar, y ahora también steelframestudio.com.ar y construccionenseco.net) para confirmar precios propios; validar si construccionenseco.net cobra a las empresas por aparecer listadas (no verificado, relevante si se evalúa un directorio propio como idea de producto).
+- **Incidentes / contenido con instrucciones embebidas:** no se detectó, en los resúmenes de búsqueda ni en los intentos de lectura directa de esta corrida (todos bloqueados por EGRESS_BLOCKED antes de llegar a ver contenido de página), texto dirigido a la IA pidiendo acciones. El hallazgo del "decreto nacional" con fecha confusa no es un intento de manipular a la IA — es contenido SEO real mal fechado por los sitios que lo publican, tratado como hallazgo de mercado (ver Hallazgos de mercado) y no como incidente de seguridad.
